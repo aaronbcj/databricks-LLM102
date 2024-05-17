@@ -5,7 +5,7 @@ This course peels back the layers and explores the inner workings of Large Langu
 
 Through this course, you'll have the opportunities to learn more about PyTorch, important LLM platforms like Hugging Face, and access to a hands-on experience with the Databricks environment. We will dive into the following topics:
 
-The transformer architecture and attention
-Efficient fine-tuning
-Optimizing deployment and training consideration for LLMs
-Multi-Modal LLMs
+* The transformer architecture and attention
+* Efficient fine-tuning
+* Optimizing deployment and training consideration for LLMs
+* Multi-Modal LLMs
